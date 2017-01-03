@@ -1,0 +1,51 @@
+body {
+	font-family: 'Nunito Sans', sans-serif;
+	margin: 0;
+}
+
+#intro {
+	height: 630px;
+	background: rgb(2, 206, 255);
+    background: -moz-linear-gradient(-45deg, rgba(2, 206, 255, 1) 0%, rgba(161, 119, 255, 1) 100%);
+    background: -webkit-linear-gradient(-45deg, rgba(2, 206, 255, 1) 0%, rgba(161, 119, 255, 1) 100%);
+    background: linear-gradient(135deg, rgba(2, 206, 255, 1) 0%, rgba(161, 119, 255, 1) 100%);
+}
+
+#intro .logo {
+	position: absolute;
+	display: block;
+	margin-top: 25px;
+    padding: 10px 25px;
+}
+
+#intro .intro-title {
+	margin-top: 100px;
+	width: 100%;
+	display: inline-block;
+	padding: 0px
+}
+
+#intro .intro-title h1, h3, h5 {
+	text-align: center;
+	color: #ffffff;
+}
+
+#intro .intro-title h1 {
+	font-size: 46px;
+	line-height: 0;
+}
+
+#intro .intro-title h3 {
+	font-size: 31.5px;
+	line-height: 0;
+}
+
+#intro .intro-title h5 {
+	font-size: 30px;
+	line-height: 0;
+}
+
+#how_it_works .container {
+	width: 100%;
+	display: inline-block;
+}
