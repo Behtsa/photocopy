@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="88px" height="88px" viewBox="0 0 88 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.3 (16618) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon_Smiley</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="WF" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Gus_Home" sketch:type="MSArtboardGroup" transform="translate(-676.000000, -1626.000000)" fill="#02CEFF">
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(135.000000, 1625.000000)">
+                <g id="Icon_Smiley" transform="translate(541.000000, 1.000000)" sketch:type="MSShapeGroup">
+                    <path d="M44.1316819,80.3178102 C24.0738908,80.3178102 7.73235854,63.9714883 7.73235854,43.9169867 C7.73235854,23.8474273 24.0738908,7.50144127 44.1316819,7.50144127 C64.1923505,7.50144127 80.5395937,23.8474273 80.5395937,43.9169867 C80.5395937,63.9714883 64.1923505,80.3178102 44.1316819,80.3178102 M44.1316819,0.258692063 C19.9897619,0.258692063 0.485550787,19.7630889 0.485550787,43.9169867 C0.485550787,68.0561898 19.9897619,87.5602514 44.1316819,87.5602514 C68.2732457,87.5602514 87.7871619,68.0561898 87.7871619,43.9169867 C87.7871619,19.7630889 68.2732457,0.258692063 44.1316819,0.258692063" id="Fill-1"></path>
+                    <path d="M46.9603919,39.839888 L56.6404479,39.839888 C57.1375787,40.8655003 55.6064381,42.4884535 54.8803359,43.360112 C48.4125962,51.1037089 39.6780966,59.8510847 33.3206438,68 C34.7107068,62.0557033 38.83331,55.0376487 41.240028,48.639888 L32,48.639888 C35.0012596,40.3459762 38.4862141,32.5357593 41.240028,24 L57.959972,24 C54.70007,29.6850945 50.3350595,34.2695591 46.9603919,39.839888 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
